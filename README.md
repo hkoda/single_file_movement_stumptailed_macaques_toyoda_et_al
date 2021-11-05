@@ -8,7 +8,7 @@ This is the python codes for the analysis of the single-file movement of the wil
 The codes with the explanations were prepared as Jupyter notebook.
 
 ## Directories
-- Analysis data codes were `` and ``
+- Analysis codes were `state_transition_analysis.ipynb` and `mk_sn_from_caravan_data.ipynb`
 - Generated figures were saved in `png` or `eps`.
 - Some additional figures which were not included in the main manuscript were saved in `suple`.
 
