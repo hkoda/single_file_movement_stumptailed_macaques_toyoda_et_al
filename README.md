@@ -7,6 +7,38 @@ This is the python codes for the analysis of the single-file movement of the wil
   
 The codes with the explanations were prepared as Jupyter notebook.
 
+## Direcotories
+- Analysis data codes were `` and ``
+- Generated figures were saved in `png` or `eps`.
+- Some additional figures which were not included in the main manuscript were saved in `suple`.
+
+
+```
+.
+├── LICENSE
+├── README.md
+├── eps # EPS format files (only available for fig 1, 3, 4)
+│   ├── figure_1_single_file_movements_all_age_sex.eps
+│   ├── figure_3_positional_ratio.eps
+│   └── figure_4_boxplot_estimated_core_number_by_observation.eps
+├── mk_sn_from_caravan_data.ipynb # code and results for the SNA and community estimation
+├── png # PNG format files
+│   ├── figure_1_single_file_movements_all_age_sex.png
+│   ├── figure_2_transition_caravan_all
+│   ├── figure_2_transition_caravan_all.png
+│   ├── figure_3_positional_ratio.png
+│   ├── figure_4_boxplot_estimated_core_number_by_observation.png
+│   └── figure_5_test_toyoda_caravan_sna_10000_iteration.png
+├── state_transition_analysis.ipynb # code and results for progressive order analysis
+└── supple # supplementary result figures
+    ├── figure_s1_single_file_movements_only_adult.eps
+    ├── figure_s1_single_file_movements_only_adult.png
+    ├── figure_s2_transition_caravan_5_states_classifications
+    ├── figure_s2_transition_caravan_5_states_classifications.png
+    ├── figure_s3_transition_caravan_shuffle
+    └── figure_s3_transition_caravan_shuffle.png
+```
+
 ## Requirements
 The code is worked under python3 or anaconda3 with:
 
