@@ -7,7 +7,7 @@ This is the python codes for the analysis of the single-file movement of the wil
   
 The codes with the explanations were prepared as Jupyter notebook.
 
-## Direcotories
+## Directories
 - Analysis data codes were `` and ``
 - Generated figures were saved in `png` or `eps`.
 - Some additional figures which were not included in the main manuscript were saved in `suple`.
