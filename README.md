@@ -11,6 +11,7 @@ The codes with the explanations were prepared as Jupyter notebook.
 - Analysis codes were `state_transition_analysis.ipynb` and `mk_sn_from_caravan_data.ipynb`
 - Generated figures were saved in `png` or `eps`.
 - Some additional figures which were not included in the main manuscript were saved in `suple`.
+- Table 1 was saved in `table`.
 
 
 ```
@@ -31,12 +32,14 @@ The codes with the explanations were prepared as Jupyter notebook.
 │   └── figure_5_test_toyoda_caravan_sna_10000_iteration.png
 ├── state_transition_analysis.ipynb # code and results for progressive order analysis
 └── supple # supplementary result figures
-    ├── figure_s1_single_file_movements_only_adult.eps
-    ├── figure_s1_single_file_movements_only_adult.png
-    ├── figure_s2_transition_caravan_5_states_classifications
-    ├── figure_s2_transition_caravan_5_states_classifications.png
-    ├── figure_s3_transition_caravan_shuffle
-    └── figure_s3_transition_caravan_shuffle.png
+│   ├── figure_s1_single_file_movements_only_adult.eps
+│   ├── figure_s1_single_file_movements_only_adult.png
+│   ├── figure_s2_transition_caravan_5_states_classifications
+│   ├── figure_s2_transition_caravan_5_states_classifications.png
+│   ├── figure_s3_transition_caravan_shuffle
+│   └── figure_s3_transition_caravan_shuffle.png
+└── table
+    └── transition_probs_table1.csv
 ```
 
 ## Requirements
