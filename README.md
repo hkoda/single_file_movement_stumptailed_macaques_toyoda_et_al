@@ -31,7 +31,7 @@ The codes with the explanations were prepared as Jupyter notebook.
 │   ├── figure_4_boxplot_estimated_core_number_by_observation.png
 │   └── figure_5_test_toyoda_caravan_sna_10000_iteration.png
 ├── state_transition_analysis.ipynb # code and results for progressive order analysis
-└── supple # supplementary result figures
+├── supple # supplementary result figures
 │   ├── figure_s1_single_file_movements_only_adult.eps
 │   ├── figure_s1_single_file_movements_only_adult.png
 │   ├── figure_s2_transition_caravan_5_states_classifications
