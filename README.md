@@ -11,7 +11,7 @@ The codes with the explanations were prepared as Jupyter notebook.
 - Analysis codes were `state_transition_analysis.ipynb` and `mk_sn_from_caravan_data.ipynb`
 - Generated figures were saved in `png` or `eps`.
 - Some additional figures which were not included in the main manuscript were saved in `suple`.
-- Table 1 was saved in `table`.
+- Table 1 and permutation result were saved in `table`.
 
 
 ```
@@ -39,7 +39,9 @@ The codes with the explanations were prepared as Jupyter notebook.
 │   ├── figure_s3_transition_caravan_shuffle
 │   └── figure_s3_transition_caravan_shuffle.png
 └── table
+    ├── permutation_test_95_percentile.csv
     └── transition_probs_table1.csv
+
 ```
 
 ## Requirements
